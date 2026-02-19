@@ -46,7 +46,7 @@
         height: 882px;
         order: 2;
         justify-self: end;
-        /* border: 1px solid green; */
+      
 
     }
 
@@ -90,8 +90,8 @@
     .section-2 {
         padding-right: 5%;
         column-gap: 35px;
-        /* border: 1px solid red; */
-        /* padding: 0; */
+    
+        
     }
 
     .figure-2 {
@@ -136,7 +136,7 @@
     }
 
     .header-nav {
-        border: 1px solid green;
+
         justify-content: unset;
         height: 48px;
         position: relative;
@@ -149,7 +149,8 @@
     }
 
     .header-links {
-        border: 1px solid red;
+
+        
         display: flex;
         gap: 64px;
         margin-left: 64px;
