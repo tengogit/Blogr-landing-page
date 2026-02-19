@@ -247,6 +247,7 @@ h4,
 a,
 summary {
     font-family: "Ubuntu", sans-serif;
+     -webkit-tap-highlight-color: transparent;
 
 }
 
