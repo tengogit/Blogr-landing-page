@@ -63,5 +63,8 @@ footer{
  align-items: center;
  max-width: 236px;
 }
+.burger-menu form button{
+    padding: 16px;
+}
     
 }
