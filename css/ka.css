@@ -1,4 +1,4 @@
-h1{
+/* h1{
     font-size: 30px;
     letter-spacing: 2px;
     line-height: 120%;
@@ -11,14 +11,6 @@ h3{
     line-height: 130%;
 }
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-.burger-menu{
-    width: 95%;
-}
 
 
 
@@ -70,4 +62,4 @@ h3{
     h2{
         text-align: center;
     }
-}
+} */
