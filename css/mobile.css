@@ -145,6 +145,7 @@ form button:active {
 }
 
 section {
+    width: 100%;
     max-width: 430px;
     margin: 100px auto 0 auto;
     display: flex;
