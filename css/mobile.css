@@ -408,6 +408,11 @@ details[open] summary {
     transform: rotate(180deg);
     transition: transform 0.3s ease-in-out;
 }
+.lang{
+   position: absolute;
+   left: 50%;
+   transform: translateX(-50%);
+}
 /*///////////////////////*/
 .header-links,.header-nav form{
     display: none;
