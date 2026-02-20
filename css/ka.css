@@ -1,4 +1,4 @@
-/* h1{
+h1{
     font-size: 30px;
     letter-spacing: 2px;
     line-height: 120%;
@@ -17,6 +17,9 @@ h3{
 @media(max-width:360px){
     h1{
         font-size: 24px;
+    }
+    body{
+        overflow-x: hidden;
     }
 }
 
@@ -62,4 +65,4 @@ h3{
     h2{
         text-align: center;
     }
-} */
+}
