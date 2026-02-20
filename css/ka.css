@@ -14,7 +14,7 @@ h3{
 
 
 
-@media(max-width:360px){
+@media(min-width:320px){
     h1{
         font-size: 24px;
     }
